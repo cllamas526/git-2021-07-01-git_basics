@@ -11,3 +11,6 @@
 - `git diff HEAD~<NUM> <FILE>`: compares current file to file <NUM> ago
 - `git diff <HASH> <FILE>: compares current file to <HASH> from oneline 
 
+- Use `git status`: to help you find the commands to unstatge or restore file
+- `git checkout <HASH> <FILE>`: restore <FILE> to version in <HASH
+    
