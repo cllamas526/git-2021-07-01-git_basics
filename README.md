@@ -1,4 +1,4 @@
-# git basics class
+# Git Basics class
 
 
 - `git init`: initialize git repository in current working directory
@@ -17,7 +17,7 @@
 - use `.gitkeep` to keep an empty folder
 - use `.gitignore` to ignore files/patterns    
 
-#remotes
+# Remotes
 -  `ssh-keygen`
 -  `git remote add <URL>`: adds the url
 -`git push origin main`: push to the main branch to the origin remote
