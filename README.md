@@ -1,4 +1,4 @@
-# git basics class
+# 2021-07-01 GIT BASICS CLASS
 
 
 - `git init`: initialize git repository in current working directory
@@ -20,4 +20,5 @@
 #remotes
 -  `ssh-keygen`
 -  `git remote add <URL>`: adds the url
--`git push origin main`: push to the main branch to the origin remote
+- `git push origin main`: push to the main branch to the origin remote
+- `git pull origin main`: pull origin to main branch
