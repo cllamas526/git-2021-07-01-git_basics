@@ -13,4 +13,6 @@
 
 - Use `git status`: to help you find the commands to unstatge or restore file
 - `git checkout <HASH> <FILE>`: restore <FILE> to version in <HASH
-    
+- git ignores  empty folders
+- use `.gitkeep` to keep an empty folder
+- use `.gitignore` to ignore files/patterns    
